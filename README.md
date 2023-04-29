@@ -26,5 +26,3 @@ USD_SIFMA3M_BASIS	BasisSpread.USD.SIFMA3M-LIBOR3M.30Y	2020-03-26	30Y       	0.00
 Reference:
 
 https://finpricing.com/lib/EqAsian.html
-
-https://bitbucket.org/cmrm11/sifimacurve/downloads/FiSifmaCurve-13.pdf
